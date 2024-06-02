@@ -1,0 +1,231 @@
+{
+  "name": "Re：NERVclient",
+  "author": "COOKIE9",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://github.com/COOKIE3319/nerv_client",
+  "files": [
+    {
+      "path": "mods/appliedenergistics2-forge-15.2.2.jar",
+      "hash": "ee2b044556e8d9b8061629ec32000ba6b43930a1"
+    },
+    {
+      "path": "mods/architectury-9.2.14-forge.jar",
+      "hash": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+    },
+    {
+      "path": "mods/balm-forge-1.20.1-7.1.4.jar",
+      "hash": "8be5a9a0506b939c3ad79d7d295a1a0ef6838172"
+    },
+    {
+      "path": "mods/Boat-Item-View-Forge-1.20.1-0.0.5.jar",
+      "hash": "8367bf496550dff3c9ed957df134201d550700fc"
+    },
+    {
+      "path": "mods/chunkloaders-1.2.8a-forge-mc1.20.1.jar",
+      "hash": "e8da2a6a554840d8e7e44d6544f93c52d8662864"
+    },
+    {
+      "path": "mods/citresewn-1.20.1-5.jar",
+      "hash": "496393d1fc170bafccd6016cd5d93ab52b4a101c"
+    },
+    {
+      "path": "mods/clockwork-1.20.1-0.1.13-forge-8cf946b78e.jar",
+      "hash": "87cfbbe497ed75f2e02ecccafeb99915352bb30e"
+    },
+    {
+      "path": "mods/cloth-config-11.1.118-forge.jar",
+      "hash": "c46ca3fba95691873a765f4e79750c615f33e446"
+    },
+    {
+      "path": "mods/create-1.20.1-0.5.1.f.jar",
+      "hash": "3fee3c26ebbfdfd59e1371ab73ba1f61b44ef6d0"
+    },
+    {
+      "path": "mods/Create-Dreams-n-Desires-1.20.1-0.2c.PREBETA.jar",
+      "hash": "008d66ed08847bd06fe23641aca6ab9f1edfab32"
+    },
+    {
+      "path": "mods/createarmoryv0.6.1n.jar",
+      "hash": "a87808cb03f05e4759d060190f2d8edb26e16d53"
+    },
+    {
+      "path": "mods/create_tweaked_controllers-1.20.1-1.2.4.jar",
+      "hash": "a37338e1c64a892b01c418ff72f78e4c07204e38"
+    },
+    {
+      "path": "mods/curtain-mc1.20.1-1.3.2.jar",
+      "hash": "9f84c5e9760e08a7b9cf388d6c03f2a29e90ba32"
+    },
+    {
+      "path": "mods/dynamiclightsreforged-1.20.1_v1.6.0.jar",
+      "hash": "323498a94ba91e24417c0ae1bc34bb4b461c0a3a"
+    },
+    {
+      "path": "mods/embeddium-0.3.19+mc1.20.1-all.jar",
+      "hash": "19d9b5b8c416b7d260f2ad7b17db832dcccd18f7"
+    },
+    {
+      "path": "mods/embeddiumplus-1.20.1-v1.2.12.jar",
+      "hash": "d464336a0a490698dc7e455d936370fd7e731b66"
+    },
+    {
+      "path": "mods/entityculling-forge-1.6.2-mc1.20.1.jar",
+      "hash": "a184f3a963c07f7026fb6d8ccd83ca29e7f7b009"
+    },
+    {
+      "path": "mods/entity_model_features_forge_1.20.1-2.0.2.jar",
+      "hash": "3769da54243cb7e815fc63de1b53e8fda7de0f73"
+    },
+    {
+      "path": "mods/entity_texture_features_forge_1.20.1-6.0.1.jar",
+      "hash": "a9560e64454c1ee4194f788f34eb53e07245ff75"
+    },
+    {
+      "path": "mods/eureka-1201-1.5.1-beta.3.jar",
+      "hash": "e506f80fb2ece9c54b80df2256980b0b97705b40"
+    },
+    {
+      "path": "mods/ferritecore-6.0.1-forge.jar",
+      "hash": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+    },
+    {
+      "path": "mods/FpsReducer2-forge-1.20-2.5.jar",
+      "hash": "d7d5af20faa2bd7012aa2d34b5804324aa273092"
+    },
+    {
+      "path": "mods/fusion-1.1.1-forge-mc1.20.1.jar",
+      "hash": "d45b7aa1be6d65a6c8c1d0b8fb7da07f1ea56c2f"
+    },
+    {
+      "path": "mods/geckolib-forge-1.20.1-4.4.5.jar",
+      "hash": "d43294d67be7adfe67d328a62f9df800bd1c162d"
+    },
+    {
+      "path": "mods/GeckoLibOculusCompat-Forge-1.0.1.jar",
+      "hash": "d5c91ae0cfade2672bf00628721da661a59930c5"
+    },
+    {
+      "path": "mods/ImmediatelyFast-Forge-1.2.14+1.20.4.jar",
+      "hash": "e67dc75212afa09a3e00f42abb417c3982cf67e2"
+    },
+    {
+      "path": "mods/kotlinforforge-4.10.0-all.jar",
+      "hash": "5981310618ebe818177bb2a703f8a7fb01bc8efc"
+    },
+    {
+      "path": "mods/kuayue-0.3.9m-izayoi_sakuya-rc1.jar",
+      "hash": "d9a636845709fd280acc0a74d7ede66e12a290b2"
+    },
+    {
+      "path": "mods/Log-Begone-Forge-1.20.1-1.0.8.jar",
+      "hash": "3b9f1c7fea5e0bdbc6f06429e147bd0a7c08663d"
+    },
+    {
+      "path": "mods/Mekanism-1.20.1-10.4.6.20.jar",
+      "hash": "728c25f3c3638f9336f15503f94d1073a48ddc42"
+    },
+    {
+      "path": "mods/MekanismGenerators-1.20.1-10.4.6.20.jar",
+      "hash": "f84eb089018308df6260a87cadc808518343dcce"
+    },
+    {
+      "path": "mods/MekanismTools-1.20.1-10.4.6.20.jar",
+      "hash": "6ca885b2299f6c36593ebdfbe36e83a371a64dfc"
+    },
+    {
+      "path": "mods/modernfix-forge-5.17.0+mc1.20.1.jar",
+      "hash": "9a6230d6f39353047771a458618b583d68d35d61"
+    },
+    {
+      "path": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+      "hash": "d751153e722a4e014691c83f39f5b07c6ec5333c"
+    },
+    {
+      "path": "mods/NoChatReports-FORGE-1.20.1-v2.2.2.jar",
+      "hash": "069396e689ae887d065c8d61b7945e685fbcc65b"
+    },
+    {
+      "path": "mods/oculus-flywheel-compat-1.20.1-0.2.5.jar",
+      "hash": "c87704b10925302f8103a0323f868f93de436484"
+    },
+    {
+      "path": "mods/oculus-mc1.20.1-1.7.0.jar",
+      "hash": "27410903d3af950378776106b76503cfebe7ea3a"
+    },
+    {
+      "path": "mods/okzoomer-forge-1.20-3.0.1.jar",
+      "hash": "6d4ca82545806195782e88196b5f21a6fbdbecb6"
+    },
+    {
+      "path": "mods/radium-mc1.20.1-0.12.3+git.50c5c33.jar",
+      "hash": "c498557a39250523a29a40678ae86f1c03d757c0"
+    },
+    {
+      "path": "mods/REIPluginCompatibilities-forge-12.0.93.jar",
+      "hash": "00ba3027cd4942013b22ac07a42f2e0cc6703b8a"
+    },
+    {
+      "path": "mods/REI物品管理器-RoughlyEnoughItems-12.1.725-forge.jar",
+      "hash": "f238c2913044eaf48282dff46b7aab2dcd1a270b"
+    },
+    {
+      "path": "mods/Rrls-3.2.0-1.20.1-forge.jar",
+      "hash": "43e7cc853475eb4062096d6318da4cb83800d33e"
+    },
+    {
+      "path": "mods/rubidium-extra-0.5.4.3+mc1.20.1-build.121.jar",
+      "hash": "af8b057d1b6a1844da59fa3680c4f847ea6a2aba"
+    },
+    {
+      "path": "mods/Searchables-forge-1.20.1-1.0.2.jar",
+      "hash": "15548b2b50b700c0ffe2b9c4de80dfe510db208d"
+    },
+    {
+      "path": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+      "hash": "f80f9eed728966adcfbcc848633e789645057281"
+    },
+    {
+      "path": "mods/supermartijn642corelib-1.1.17-forge-mc1.20.1.jar",
+      "hash": "f2c3d1aa0bef8663700b9438f789c15cfd72137d"
+    },
+    {
+      "path": "mods/tournament-1.20.1-forge-1.1.0_beta-5.3+af35b3821f.jar",
+      "hash": "29e7518684c1ef7c2a573a0c57a5e942c6e2c725"
+    },
+    {
+      "path": "mods/valkyrienskies-120-2.3.0-beta.5.jar",
+      "hash": "cf2ad09ca6b53f621b2a6af507ccacbc88fbba5a"
+    },
+    {
+      "path": "mods/旅行地图-journeymap-1.20.1-5.9.22-forge.jar",
+      "hash": "3a0b44f588e255f6c829cb1bc0e3a2063aa9c682"
+    },
+    {
+      "path": "mods/更好的F3-BetterF3-7.0.2-Forge-1.20.1.jar",
+      "hash": "b65cba59e87dc6c6d1aa9c47f09b9996b4e5075d"
+    },
+    {
+      "path": "options.txt",
+      "hash": "64a79af2683b85eb24e5570c564f3b06f9f43cff"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "5690137c034247cb071f66ac75a4982f97e55402"
+    },
+    {
+      "path": "servers.dat_old",
+      "hash": "b64b4ce59171d2f59af9a9904a37937473eb58cb"
+    }
+  ],
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.20.1"
+    },
+    {
+      "id": "forge",
+      "version": "47.2.0"
+    }
+  ]
+}
